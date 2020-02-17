@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonClick</string>
+    <string name="myText_name">Hello World</string>
+    <string name="onClickBtn_name">OnClick</string>
+    <string name="longClickBtn_name">LongClick</string>
+    <string name="clickBtn_name">Click_XML</string>
+    <string name="clickBtn2_name">Click_XML2</string>
+    <string name="touchBtn_name">Touch</string>
+</resources>
